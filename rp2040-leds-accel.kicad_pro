@@ -237,7 +237,9 @@
   "libraries": {
     "pinned_footprint_libs": [],
     "pinned_symbol_libs": [
-      "jellybeans"
+      "jellybeans",
+      "suchi_chips",
+      "suchi_connectors"
     ]
   },
   "meta": {
